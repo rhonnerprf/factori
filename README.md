@@ -2,6 +2,8 @@
 
 Factori es un programa para calcular el coeficiente o factor de influencia I, el cual sirve para calcular el incremento de esfuerzo vertical debido a una carga rectangular. Para su desarrollo, se usó la librería guizero de Python.
 
+![Interfaz de Factori](https://github.com/rhonnerprf/factori/blob/main/avance-3-factori.jpg)
+
 ## Características
 
 - Uso simple
